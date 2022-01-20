@@ -1,0 +1,24 @@
+{
+  "name": "0001",
+  "version": "1.0.0",
+  "description": "crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfriedy/node-crud-operation.git"
+  },
+  "author": "wilfried akpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilfriedy/node-crud-operation/issues"
+  },
+  "homepage": "https://github.com/wilfriedy/node-crud-operation#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
